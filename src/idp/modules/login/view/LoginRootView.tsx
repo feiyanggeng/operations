@@ -8,7 +8,7 @@ class LoginRootView extends React.PureComponent<RootViewPropsType> {
   public render(): React.ReactNode {
     return (
       <React.Fragment>
-        <ExtensiblePageTitle></ExtensiblePageTitle>
+        <ExtensiblePageTitle>登录页面</ExtensiblePageTitle>
       </React.Fragment>
     );
   }
